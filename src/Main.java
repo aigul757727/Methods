@@ -53,7 +53,6 @@ public class Main {
         System.out.println("Задача 2");
         checkPhone(2017, 0);
     }
-
     public static void task3() {
         System.out.println("Задача 3");
         checkDelivery(55);
